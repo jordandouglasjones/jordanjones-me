@@ -1,0 +1,7 @@
+{
+  "name": "jordanjones-me",
+  "private": true,
+  "dependencies": {
+    "hugo-bin": "^0.133.0"
+  }
+}
