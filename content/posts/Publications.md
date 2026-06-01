@@ -8,36 +8,57 @@ tags: ["links", "reading"]
 ## Books and Chapbooks
 ### Anthologies
 Jordan Jones. “I Am Asking You to Trust My Memory-Wheel,” *The Best Fiction and Poetry from CSUN: 1962–1988,* edited by Warren Wedin, 1st ed., 192. Northridge, California: Northridge Review Press, 1988. (Original, now deprecated: http://www.csun.edu/~hceng029/thebest/jonesiamasking.html; archive: https://web.archive.org/web/20180621012552/http://www.csun.edu/~hceng029/thebest/jonesiamasking.html).
+
 ———. “Waltz: The Secret Diary of an Underling at the Department of Water and Power.” In *Anyone Is Possible: Contemporary Short Fiction,* edited by Kate Gale and Mark Cull. Red Hen Press, 1997.
+
 ———. “Zen Baker.” In *What Book!?: Buddha Poems from Beat to Hiphop,* edited by Gary Gach, 1st ed., 58–59. Berkeley, California: Parallax Press, 1998. Winner of the American Book Award.
 
 ### Poetry 
 ———. *Dream Yoga.* University of California, Davis, 1991. MA Thesis. http://www.worldcat.org/title/dream-yoga/oclc/25783089?referer=list_view.
+
 ———. *Sand & Coal: Poems.* Ventura CA: Futharc Press, 1993. http://www.worldcat.org/title/sand-coal-poems/oclc/29541556?referer=list_view.
+
 ———. *Selections from "The Wheel." *Black River Falls, WI: Obscure Publications, 2004. http://www.worldcat.org/title/selections-from-the-wheel/oclc/59131467?referer=list_view.
+
 ———. *The Wheel: Poems.* San José CA: Leaping Dog Press, 2005. http://www.worldcat.org/title/wheel-poems/oclc/63818894&referer=brief_results.
 
 ### Translations
 ———. *Le Contre-Ciel, Partie Une; The Anti-Heaven, Part One.* Black River Falls, WI: Obscure Publications, 2003. https://www.worldcat.org/title/contre-ciel-the-anti-heaven-partie-une/oclc/51539214.
+
 ———. *Le Contre-Ciel, Parties Deux et Trois; The Anti-Heaven, Parts Two and Three.* Black River Falls, WI: Obscure Publications, 2003. https://www.worldcat.org/title/contre-ciel-the-anti-heaven-parties-deux-et-trois/oclc/51744002.
 
 ## Periodical and Website Publications
 ### Poetry
 ———. “Separation.” *Northridge Review.* California State University, Northridge, Vol. 2, No. 1 (Fall 1983), Jodi Johnson, ed., October 1983.
+
 ———. “Cigar.” *Crosscurrents.* Westlake Village, California: Linda Brown Michaelson, ed., 1984, p. 51.
+
 ———. “I Am Asking You to Trust My Memory-Wheel.” *Northridge Review.* Northridge Review, California State University, Northridge, Vol. 3, No. 2 (Fall 1985), Virginia Webster and Marlene Pearson, eds., October 1985.
+
 ———. “Cigar.” *Northridge Review.* California State University, Northridge, Vol. 4, No. 1 (Spring 1986), Jordan Jones and Jeannette Svoboda, eds., April 1986.
+
 ———. “Distance.” *Northridge Review.* Northridge Review, California State University, Northridge, Vol. 4, No. 1 (Spring 1986), Jordan Jones and Jeannette Svoboda, eds., April 1986.
+
 ———. “Insomnia.” *Northridge Review.* Northridge Review, California State University, Northridge, Vol. 4, No. 2 (Fall 1986), Marlene Pearson, poetry editor, October 1986.
+
 ———. “Kafka’s Bar Mitzvah.” *Northridge Review.* Northridge Review, California State University, Northridge, Vol. 5, No. 1 (Spring 1987), David Green and Stuart Ackerman, eds., April 1987.
+
 ———. “Ball-and-Chain Affair.” *The 365 Project,* 2003. http://www.the365project.org/.
+
 ———. “Birds of Iraq.” *The 365 Project,* 2003. http://www.the365project.org/.
+
 ———. “Cool to Be Stupid.” *The 365 Project,* 2003. http://www.the365project.org/.
+
 ———. “Language Is a Virus.” *The 365 Project,* 2003. http://www.the365project.org/.
+
 ———. “Lima Beans.” *The 365 Project,* 2003. http://www.the365project.org/.
+
 ———. “Naked in Babylon.” *The 365 Project,* 2003. http://www.the365project.org/.
+
 ———. “Temporary Empire.” *The 365 Project,* 2003. http://www.the365project.org/.
+
 ———. “Porn Bomb.” *Tamafyhr Mountain Poetry, TMP Irregular,* January 9, 2005.
+
 ———. “Pueblo.” Vice-Versa. *Vice-Versa: A University of Hawai’i ezine: The Anthropocene Epoch,* (Honolulu: University of Hawai’i, August 2020), Tom Gammarino and Eric Paul Shaffer, eds., August 2020. https://www.hawaii.edu/vice-versa/jordan-jones/.
 
 ### Fiction
