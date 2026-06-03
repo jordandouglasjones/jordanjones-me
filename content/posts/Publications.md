@@ -29,19 +29,25 @@ Jones, Jordan. “I Am Asking You to Trust My Memory-Wheel,” *The Best Fiction
 
 ## Periodical and Website Publications
 ### Poetry
-Jones, Jordan. “Separation.” *Northridge Review.* California State University, Northridge, Vol. 2, No. 1 (Fall 1983), Jodi Johnson, ed., October 1983.
+Jones, Jordan. “Separation.” *Northridge Review.* California State University, Northridge, Vol. 2, No. 1 (Fall 1983), Jodi Johnson, ed., October 1983., p. 30.
 
 ———. “Cigar.” *Crosscurrents.* Westlake Village, California: Linda Brown Michaelson, ed., 1984, p. 51.
 
-———. “I Am Asking You to Trust My Memory-Wheel.” *Northridge Review.* Northridge Review, California State University, Northridge, Vol. 3, No. 2 (Fall 1985), Virginia Webster and Marlene Pearson, eds., October 1985.
+———. “I Am Asking You to Trust My Memory-Wheel” and "The Coffee Poems." *Northridge Review.* Northridge Review, California State University, Northridge, Vol. 3, No. 2 (Fall 1985), Virginia Webster and Marlene Pearson, eds., October 1985., pp. 5-6.
 
-———. “Cigar.” *Northridge Review.* California State University, Northridge, Vol. 4, No. 1 (Spring 1986), Jordan Jones and Jeannette Svoboda, eds., April 1986.
+———. “Cigar” and "Distance." *Northridge Review.* California State University, Northridge, Vol. 4, No. 1 (Spring 1986), Jordan Jones and Jeannette Svoboda, eds., April 1986, pp. 50-51.
 
-———. “Distance.” *Northridge Review.* Northridge Review, California State University, Northridge, Vol. 4, No. 1 (Spring 1986), Jordan Jones and Jeannette Svoboda, eds., April 1986.
-
-———. “Insomnia.” *Northridge Review.* Northridge Review, California State University, Northridge, Vol. 4, No. 2 (Fall 1986), Marlene Pearson, poetry editor, October 1986.
+———. “Insomnia.” *Northridge Review.* California State University, Northridge, Vol. 4, No. 2 (Fall 1986), Marlene Pearson, poetry editor, October 1986.
 
 ———. “Kafka’s Bar Mitzvah.” *Northridge Review.* Northridge Review, California State University, Northridge, Vol. 5, No. 1 (Spring 1987), David Green and Stuart Ackerman, eds., April 1987.
+
+___. "Distance." *Bakunin.* (Davis, CA: Spring 1990), v1:n1, 20–21.
+
+___. "The Invisible Woman." *Bakunin.* (Davis, CA: Summer 1990), v1:n2, 10–11.
+
+___. "Matthew." *Bakunin.* (Simi Valley, CA: Winter 1991), v2:n1-2, 15.
+
+___. "Pointing at the Light." *Bakunin.* (Simi Valley, CA: Winter 1995), v5:n2, 65.
 
 ———. “Ball-and-Chain Affair.” *The 365 Project,* 2003. http://www.the365project.org/.
 
@@ -81,20 +87,69 @@ Jones, Jordan, and Randall Forsyth. “Waltz: The Secret Diary of an Underling a
 ### Translations
 Daumal, René (Jordan Jones, translator). “6 Poems by René Daumal: Translated and with a Note.” Translated by Jordan Jones. *Asylum Annual 1993.*
 
+___. “Setting the Will Aflame,” “The Other Side of the Picture,” “Brief Revelation on Death and Chaos,” “Civilization,” and “How It All Begins Again.” *Heaven Bone,* No. 11. Chester, NY, pp. 64–68.
+
+___. "Civilization" and "Panic Sweat." *Bakunin.* (Simi Valley, CA: Summer 1994), v5:n1, 102–103.
+
+
 ### Literary and Cultural Criticism and Book Reviews
+Jones, Jordan and Jeannette Svoboda. "Bill Mohr: An Interview" 39–48.
+
 Jones, Jordan *Myth in the Poetry of Charles Simic’s ‘Dismantling the Silence,’ ‘Return to a Place Lit by a Glass of Milk,’ and ‘White.’* California State University, Northridge, 1986. http://www.worldcat.org/title/myth-in-the-poetry-of-charles-simics-dismantling-the-silence-return-to-a-place-lit-by-a-glass-of-milk-and-white/oclc/15000552?referer=list_view.
+
+___. "Focus: Carole Ross." *Bakunin.* (Davis, CA: Winter 1991), 20–21.
+
+___. "Statement." *Bakunin.* (Simi Valley, CA: Mills College Special Issue), v2:n3-4, 3.
+
+___. "A Note from the Editor." *Bakunin.* (Simi Valley, CA: Spring / Summer 1992), v3:n1, 3.
+
+___. "A Note from the Editor." *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 3.
+
+___. "A Review of *Dear Empire State Building* by Kirpal Gordon." *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 91.
+
+___. "A Review of *Black Candle* by Chitra Divakaruni." *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 92–92.
+
+___. "A Review of *The Book of Moss* by Benjamin Saltman." *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 97–99.
+
+___. "A Review of *Charisma* by John Darago." *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 99–100.
+
+___. "A Review of *Raizirr 1991 Annual.*" *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 100–101.
+
+___. "A Review of *Zaftig: An Anthology of Sex Poetry and Prose* by Benjamin Saltman." *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 101–102.
 
 ———. “Rudolfo Anaya. Alburquerque.” *Review of Contemporary Fiction* 12, no. 3 (October 1992): 201–2.
 
-———. “City of Fire: A Review of Literature on the L.A. Riots.” *Bakunin.* (Simi Valley, California: Spring 1993), Jordan Jones, ed., April 1993.
+———. “Luke Whisnant. Watching TV with the Red Chinese.” *Review of Contemporary Fiction* 13, no. 1 (April 1993): 274–275.
 
-———. “The Trouble with Los Angeles.” *Bakunin.* (Simi Valley, California: Spring 1993), Jordan Jones, ed., April 1993.
+———. “The Trouble with Los Angeles.” *Bakunin.* (Simi Valley, California: Spring 1993), Jordan Jones, ed., v4:n1, 4–5.
 
-———. “Luke Whisnant. Watching TV with the Red Chinese.” *Review of Contemporary Fiction* 13, no. 1 (April 1993): 274–75.
+___. "The Simi Valley I Know." *Bakunin.* (Simi Valley, California: Spring 1993), Jordan Jones, ed., v4:n1, 69–76.
+
+———. “City of Fire: A Review of Literature on the L.A. Riots.” *Bakunin.* (Simi Valley, California: Spring 1993), Jordan Jones, ed., v4:n1, 102–106.
+
+___. "A Review of *Psychedelics Encyclopedia* by Peter Stafford." *Bakunin.* (Simi Valley, CA: Winter 1994), v4:n2, 112–113.
+
+___. "A Review of *Vito Loves Geraldine* by Janice Eidus." *Bakunin.* (Simi Valley, CA: Winter 1994), v4:n2, 113–114.
+
+___. "Editor's Note." *Bakunin.* (Simi Valley, CA: Summer 1994), v5:n1, 3.
+
+___. "In Memoriam: William Stafford." *Bakunin.* (Simi Valley, CA: Summer 1994), v5:n1, 109.
+
+___. "Editor's Note." *Bakunin.* (Simi Valley, CA: Winter 1995), v5:n2, 3.
+
+___. "Review of *Long Made Short* by Stephen Dixon." *Bakunin.* (Simi Valley, CA: Winter 1995), v5:n2, 127–128.
+
+___. "Review of *The Philosopher's Club* by Kim Addonizio." *Bakunin.* (Simi Valley, CA: Winter 1995), v5:n2, 134–136.
+
+___. "Review of *Bus Poems* by Gary Aspenberg." *Bakunin.* (Simi Valley, CA: Winter 1995), v5:n2, 136–138.
+
+___. "Editor's Note." *Bakunin.* (Simi Valley, CA: 1996), v6, 3.
+
+___. "Review of *The Sun Takes Us Away* by Benjamin Saltman." *Bakunin.* (Simi Valley, CA: 1996), v6, 219–222.
+
+___. "Review of *A Place in Space* by Gary Snyder." *Bakunin.* (Simi Valley, CA: 1996), v6, 222–223.
 
 ———. “Book Review.” *Small Press,* January 1994.
-
-Daumal, René (Jordan Jones, translator. )“Setting the Will Aflame,” “The Other Side of the Picture,” “Brief Revelation on Death and Chaos,” “Civilization,” and “How It All Begins Again.” *Heaven Bone,* No. 11. Chester, NY, pp. 64–68.
 
 ———. “Book Reviews.” *Small Press,* 1995.
 
