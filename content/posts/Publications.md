@@ -73,7 +73,7 @@ ___. "Pointing at the Light." *Bakunin.* (Simi Valley, CA: Winter 1995), v5:n2, 
 
 ———. "Rejection Letter," "Why I Have No Tattoos," "Used Poem Salesman," "Robot King," and "Water Lilies," [*Gargoyle Online #13*](https://gargoylemagazine.com/2026/04/online-13/). April 2026: [https://gargoylemagazine.com/jordan-jones-2/](https://gargoylemagazine.com/jordan-jones-2/).
 
-#### Forthcoming
+#### Forthcoming Poetry
 ___. "Mr. Tamoto's Rats," "My Favorite Stone," "On Dust," and "Role-Playing Game," Gargoyle Online 14 and 15.
 
 ___. "The Semicolon's Dream," *Abandoned Mine*
@@ -82,7 +82,11 @@ ___. "Weather Report for Where I Want to Be," *California Quarterly*
 
 
 ### Fiction
-Jones, Jordan, and Randall Forsyth. “Waltz: The Secret Diary of an Underling at the Department of Water and Power.” *Fiction International,* 1993.
+Jones, Jordan and Randall Forsyth. “Waltz: The Secret Diary of an Underling at the Department of Water and Power.” *Fiction International,* 1993.
+
+Jones, Jordan. “Confession #17,” from *1001 Identical Nights.* *Asylum Annual,* 1995, Santa Maria, CA: 1995, p. 100.
+
+___. “Confession #114” and “Confession #1001” from *1001 Identical Nights.* *Blackwater.* v1:n5; SP 174. Scopecraeft Press, Portales, NM: Mid-Summer, 1995, pp. 11–13.
 
 ### Translations
 Daumal, René (Jordan Jones, translator). “6 Poems by René Daumal: Translated and with a Note.” Translated by Jordan Jones. *Asylum Annual 1993.*
@@ -115,11 +119,11 @@ ___. "A Review of *Charisma* by John Darago." *Bakunin.* (Simi Valley, CA: Fall 
 
 ___. "A Review of *Raizirr 1991 Annual.*" *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 100–101.
 
-___. "A Review of *Zaftig: An Anthology of Sex Poetry and Prose* by Benjamin Saltman." *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 101–102.
+___. "A Review of *Zaftig: An Anthology of Sex Poetry and Prose.*" *Bakunin.* (Simi Valley, CA: Fall 1992 / Winter 1993), v3:n2, 101–102.
 
-———. “Rudolfo Anaya. Alburquerque.” *Review of Contemporary Fiction* 12, no. 3 (October 1992): 201–2.
+———. “Rudolfo Anaya. *Alburquerque.*” *Review of Contemporary Fiction* 12, no. 3 (October 1992): 201–2.
 
-———. “Luke Whisnant. Watching TV with the Red Chinese.” *Review of Contemporary Fiction* 13, no. 1 (April 1993): 274–275.
+———. “Luke Whisnant. *Watching TV with the Red Chinese.*” *Review of Contemporary Fiction* 13, no. 1 (April 1993): 274–275.
 
 ———. “The Trouble with Los Angeles.” *Bakunin.* (Simi Valley, California: Spring 1993), Jordan Jones, ed., v4:n1, 4–5.
 
@@ -155,13 +159,13 @@ ___. "Review of *A Place in Space* by Gary Snyder." *Bakunin.* (Simi Valley, CA:
 
 ———. "Review of *The Art of Happiness: A Handbook for Living* by His Holiness Dalai Lama and Howard C. Cutler, MD."" *Small Press,* 1996.
 
-———. “Neil Henry. Pearl’s Secret: A Black Man’s Search for His White Family.” *Genealogymedia.com *(blog), December 26, 2006. https://authory.com/JordanJones/Neil-Henry-Pearls-Secret-A-Black-Mans-Search-for-His-White-Family.
+———. “Neil Henry. *Pearl’s Secret: A Black Man’s Search for His White Family.*” *Genealogymedia.com *(blog), December 26, 2006. https://authory.com/JordanJones/Neil-Henry-Pearls-Secret-A-Black-Mans-Search-for-His-White-Family.
 
 ———. Review of *Managing the Digital You: Where and How to Keep and Organize Your Digital Life* by Melody Condron. *National Genealogical Society Quarterly* 105, no. 4 (December 2017): 308.
 
 ———. “Picketing the Zeitgeist: News, Poetry, Protest, and Making It Matter.” *The American Book Review,* 2003. http://www.worldcat.org/title/picketing-the-zeitgeist-news-poetry-protest-and-making-it-matter/oclc/98975593?referer=list_view.
 
-———. “Robert Peters. Zapped: Two Novellas.” *Review of Contemporary Fiction* 14, no. 3 (October 1994): 225.
+———. “Robert Peters. *Zapped: Two Novellas.*” *Review of Contemporary Fiction* 14, no. 3 (October 1994): 225.
 
 ### Technical Writing 
 ———. “IBM-PC Desktop Publishing Comes of Age: Catching Up to the Mac.” *Small Press,* 1993.
