@@ -7,7 +7,7 @@ tags: ["links", "reading"]
 # Publications by Jordan Jones
 ## Books and Chapbooks
 ### Poetry 
-———. *Dream Yoga.* University of California, Davis, 1991. MA Thesis. http://www.worldcat.org/title/dream-yoga/oclc/25783089?referer=list_view.
+Jones, Jordan. *Dream Yoga.* University of California, Davis, 1991. MA Thesis. http://www.worldcat.org/title/dream-yoga/oclc/25783089?referer=list_view.
 
 ———. *Sand & Coal: Poems.* Ventura CA: Futharc Press, 1993. http://www.worldcat.org/title/sand-coal-poems/oclc/29541556?referer=list_view.
 
