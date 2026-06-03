@@ -65,10 +65,15 @@ Jones, Jordan. “Separation.” *Northridge Review.* California State Universit
 
 ———. "Period," "Away from the House," and "A Return", [*Gargoyle Online #10*](https://gargoylemagazine.com/2025/12/online-10/). March 2025: [https://gargoylemagazine.com/jordan-jones/](https://gargoylemagazine.com/jordan-jones/).
 
-———. "Period," "Away from the House," and "A Return", [*Gargoyle Online #13*](https://gargoylemagazine.com/2026/04/online-13/). April 2026: [https://gargoylemagazine.com/jordan-jones-2/](https://gargoylemagazine.com/jordan-jones-2/).
+———. "Rejection Letter," "Why I Have No Tattoos," "Used Poem Salesman," "Robot King," and "Water Lilies," [*Gargoyle Online #13*](https://gargoylemagazine.com/2026/04/online-13/). April 2026: [https://gargoylemagazine.com/jordan-jones-2/](https://gargoylemagazine.com/jordan-jones-2/).
 
+#### Forthcoming
+___. "Mr. Tamoto's Rats," "My Favorite Stone," "On Dust," and "Role-Playing Game," Gargoyle Online 14 and 15.
 
-https://gargoylemagazine.com/2025/12/online-12/
+___. "The Semicolon's Dream," *Abandoned Mine*
+
+___. "Weather Report for Where I Want to Be," *California Quarterly*
+
 
 ### Fiction
 Jones, Jordan, and Randall Forsyth. “Waltz: The Secret Diary of an Underling at the Department of Water and Power.” *Fiction International,* 1993.
@@ -88,6 +93,8 @@ Jones, Jordan *Myth in the Poetry of Charles Simic’s ‘Dismantling the Silenc
 ———. “Luke Whisnant. Watching TV with the Red Chinese.” *Review of Contemporary Fiction* 13, no. 1 (April 1993): 274–75.
 
 ———. “Book Review.” *Small Press,* January 1994.
+
+Daumal, René (Jordan Jones, translator. )“Setting the Will Aflame,” “The Other Side of the Picture,” “Brief Revelation on Death and Chaos,” “Civilization,” and “How It All Begins Again.” *Heaven Bone,* No. 11. Chester, NY, pp. 64–68.
 
 ———. “Book Reviews.” *Small Press,* 1995.
 
@@ -147,7 +154,7 @@ Jones, Jordan, and Laurence Hart. “How to Manage Unstructured Data Using an EC
 
 ———. “Genealogy in Your Pocket.” *NGS Magazine.* National Genealogical Society, Inc., April 2012.
 
-———. “How to Use Evernote for Genealogy Research.” *Evernote Blog.* Evernote, Inc., November 19, 2012. (Original, deprecated: /https://blog.evernote.com/blog/2012/11/19/how-to-use-evernote-for-genealogical-research/; Archive: https://web.archive.org/web/20121230002441/https://blog.evernote.com/blog/2012/11/19/how-to-use-evernote-for-genealogical-research/.)
+———. “How to Use Evernote for Genealogy Research.” *Evernote Blog.* Evernote, Inc., November 19, 2012. (Original, deprecated: https://blog.evernote.com/blog/2012/11/19/how-to-use-evernote-for-genealogical-research/; Archive: https://web.archive.org/web/20121230002441/https://blog.evernote.com/blog/2012/11/19/how-to-use-evernote-for-genealogical-research/.)
 
 ———. “How Trends in Technology Will Affect Genealogy.” *NGS Magazine.* National Genealogical Society, Inc., April 2010.
 
