@@ -20,6 +20,9 @@ Daumal, René (Jordan Jones, translator). *Le Contre-Ciel, Partie Une; The Anti-
 
 ___. *Le Contre-Ciel, Parties Deux et Trois; The Anti-Heaven, Parts Two and Three.* Black River Falls, Wisconsin: Obscure Publications, 2003. https://www.worldcat.org/title/contre-ciel-the-anti-heaven-parties-deux-et-trois/oclc/51744002.
 
+### Non-Fiction
+Jones, Jordan. *The Simi Valley I Know* (Chantilly, Virginia: Leaping Dog Press)
+
 ### Anthologies
 Jones, Jordan. “I Am Asking You to Trust My Memory-Wheel,” *The Best Fiction and Poetry from CSUN: 1962–1988,* edited by Warren Wedin, 1st ed., 192. Northridge, California: Northridge Review Press, 1988. (Original, now deprecated: http://www.csun.edu/~hceng029/thebest/jonesiamasking.html; archive: https://web.archive.org/web/20180621012552/http://www.csun.edu/~hceng029/thebest/jonesiamasking.html).
 
@@ -73,12 +76,12 @@ ___. "Period," "Away from the House," and "A Return", [*Gargoyle Online #10*](ht
 
 ___. "Rejection Letter," "Why I Have No Tattoos," "Used Poem Salesman," "Robot King," and "Water Lilies," [*Gargoyle Online #13*](https://gargoylemagazine.com/2026/04/online-13/). April 2026: [https://gargoylemagazine.com/jordan-jones-2/](https://gargoylemagazine.com/jordan-jones-2/).
 
+___. "The Semicolon's Dream," *Abandoned Mine,* Fifteenth Issue (Albuquerque, New Mexico: Abandoned Mine, June 2026): https://www.abandonedmine.org/the-semicolons-dream-jordan-jones).
+
 #### Forthcoming Poetry
 ___. "Mr. Tamoto's Rats," "My Favorite Stone," "On Dust," and "Role-Playing Game," Gargoyle Online 14 and 15.
 
-___. "The Semicolon's Dream," *Abandoned Mine*
-
-___. "Weather Report for Where I Want to Be," *California Quarterly*
+___. "Weather Report for Where I Want to Be," *California Quarterly,* v52:n2 (Sunland, California: California State Poetry Society, Summer 2026).
 
 
 ### Fiction
@@ -258,9 +261,9 @@ ___. "Task Management for Genealogists." *NGS Magazine.* National Genealogical S
 # Works About Jordan Jones
 Clift, G. W., and James E. Roper. "Review of *Bakunin* in 'New Magazines of 1990.'” *Literary Magazine Review,* Summer 1991.
 
-JS, "Review of *Asylum Annual* by Greg Boyd." *Factsheet 5,* 1993, p. 87. https://archive.org/details/factsheet_5_48/. Brief mention of Daumal translations.
+JS. "Review of *Asylum Annual* by Greg Boyd." *Factsheet 5,* 1993, p. 87. https://archive.org/details/factsheet_5_48/. Brief mention of Daumal translations.
 
-JS, "Review of *Bakunin* by Jordan Jones." *Factsheet 5,* 1993. p. 87. https://archive.org/details/factsheet_5_48/.
+JS. "Review of *Bakunin* by Jordan Jones." *Factsheet 5,* 1993. p. 87. https://archive.org/details/factsheet_5_48/.
 
 Katz, Bill. "Review of *Bakunin.*" *Library Journal.* "A must for California libraries." 1993.
 
