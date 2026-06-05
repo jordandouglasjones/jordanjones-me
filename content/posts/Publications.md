@@ -76,7 +76,7 @@ ___. "Period," "Away from the House," and "A Return", [*Gargoyle Online #10*](ht
 
 ___. "Rejection Letter," "Why I Have No Tattoos," "Used Poem Salesman," "Robot King," and "Water Lilies," [*Gargoyle Online #13*](https://gargoylemagazine.com/2026/04/online-13/). April 2026: [https://gargoylemagazine.com/jordan-jones-2/](https://gargoylemagazine.com/jordan-jones-2/).
 
-___. "The Semicolon's Dream," *Abandoned Mine,* Fifteenth Issue (Albuquerque, New Mexico: Abandoned Mine, June 2026): https://www.abandonedmine.org/the-semicolons-dream-jordan-jones).
+___. "The Semicolon's Dream," *Abandoned Mine,* Fifteenth Issue (Albuquerque, New Mexico: Abandoned Mine, June 2026): [https://www.abandonedmine.org/the-semicolons-dream-jordan-jones](https://www.abandonedmine.org/the-semicolons-dream-jordan-jones)).
 
 #### Forthcoming Poetry
 ___. "Mr. Tamoto's Rats," "My Favorite Stone," "On Dust," and "Role-Playing Game," Gargoyle Online 14 and 15.
