@@ -21,7 +21,7 @@ Daumal, René (Jordan Jones, translator). *Le Contre-Ciel, Partie Une; The Anti-
 ___. *Le Contre-Ciel, Parties Deux et Trois; The Anti-Heaven, Parts Two and Three.* Black River Falls, Wisconsin: Obscure Publications, 2003. https://www.worldcat.org/title/contre-ciel-the-anti-heaven-parties-deux-et-trois/oclc/51744002.
 
 ### Non-Fiction
-Jones, Jordan. *The Simi Valley I Know* (Chantilly, Virginia: Leaping Dog Press, 2013)
+Jones, Jordan. *The Simi Valley I Know* (Chantilly, Virginia: Leaping Dog Press, 2013).
 
 ### Anthologies
 Jones, Jordan. “I Am Asking You to Trust My Memory-Wheel,” *The Best Fiction and Poetry from CSUN: 1962–1988,* edited by Warren Wedin, 1st ed., 192. Northridge, California: Northridge Review Press, 1988. (Original, now deprecated: http://www.csun.edu/~hceng029/thebest/jonesiamasking.html; archive: https://web.archive.org/web/20180621012552/http://www.csun.edu/~hceng029/thebest/jonesiamasking.html).
