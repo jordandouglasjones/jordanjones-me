@@ -21,7 +21,7 @@ Daumal, René (Jordan Jones, translator). *Le Contre-Ciel, Partie Une; The Anti-
 ___. *Le Contre-Ciel, Parties Deux et Trois; The Anti-Heaven, Parts Two and Three.* Black River Falls, Wisconsin: Obscure Publications, 2003. https://www.worldcat.org/title/contre-ciel-the-anti-heaven-parties-deux-et-trois/oclc/51744002.
 
 ### Non-Fiction
-Jones, Jordan. *The Simi Valley I Know* (Chantilly, Virginia: Leaping Dog Press)
+Jones, Jordan. *The Simi Valley I Know* (Chantilly, Virginia: Leaping Dog Press, 2013)
 
 ### Anthologies
 Jones, Jordan. “I Am Asking You to Trust My Memory-Wheel,” *The Best Fiction and Poetry from CSUN: 1962–1988,* edited by Warren Wedin, 1st ed., 192. Northridge, California: Northridge Review Press, 1988. (Original, now deprecated: http://www.csun.edu/~hceng029/thebest/jonesiamasking.html; archive: https://web.archive.org/web/20180621012552/http://www.csun.edu/~hceng029/thebest/jonesiamasking.html).
@@ -92,7 +92,9 @@ Jones, Jordan. “Confession #17,” from *1001 Identical Nights.* *Asylum Annua
 ___. “Confession #114” and “Confession #1001” from *1001 Identical Nights.* *Blackwater.* v1:n5; SP 174. (Portales, New Mexico: Scopecraeft Press, Mid-Summer, 1995), 11–13.
 
 ### Translations
-Daumal, René (Jordan Jones, translator). “6 Poems by René Daumal: Translated and with a Note.” Translated by Jordan Jones. *Asylum Annual 1993.*
+Daumal, René (Jordan Jones, translator). "The Great Day of the Dead," "The Only One," and "The Notorious Surprise" (Chester, New York: *Heaven Bone,* No. 9, 1991).
+
+___. “6 Poems by René Daumal: Translated and with a Note.” Translated by Jordan Jones. *Asylum Annual 1993.*
 
 ___. “Setting the Will Aflame,” “The Other Side of the Picture,” “Brief Revelation on Death and Chaos,” “Civilization,” and “How It All Begins Again.” (Chester, New York: *Heaven Bone,* No. 11, 1994), 64–68.
 

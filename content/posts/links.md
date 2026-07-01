@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2026-05-31
-tags: ["links", “writing”]
+tags: ["links", "writing"]
 ---
 
 Some of my writing and publishing work: 
