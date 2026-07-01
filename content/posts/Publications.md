@@ -16,19 +16,19 @@ ___. *Selections from "The Wheel."* (Black River Falls, Wisconsin: Obscure Publi
 ___. *The Wheel: Poems.* (San José, California: Leaping Dog Press, 2005): http://www.worldcat.org/title/wheel-poems/oclc/63818894.
 
 ### Translations
-Daumal, René (Jordan Jones, translator). *Le Contre-Ciel, Partie Une; The Anti-Heaven, Part One.* Black River Falls, Wisconsin: Obscure Publications, 2003. https://www.worldcat.org/title/contre-ciel-the-anti-heaven-partie-une/oclc/51539214.
+Daumal, René (Jordan Jones, translator). *Le Contre-Ciel, Partie Une; The Anti-Heaven, Part One.* (Black River Falls, Wisconsin: Obscure Publications, 2003). https://www.worldcat.org/title/contre-ciel-the-anti-heaven-partie-une/oclc/51539214.
 
-___. *Le Contre-Ciel, Parties Deux et Trois; The Anti-Heaven, Parts Two and Three.* Black River Falls, Wisconsin: Obscure Publications, 2003. https://www.worldcat.org/title/contre-ciel-the-anti-heaven-parties-deux-et-trois/oclc/51744002.
+___. *Le Contre-Ciel, Parties Deux et Trois; The Anti-Heaven, Parts Two and Three.* (Black River Falls, Wisconsin: Obscure Publications, 2003). https://www.worldcat.org/title/contre-ciel-the-anti-heaven-parties-deux-et-trois/oclc/51744002.
 
 ### Non-Fiction
 Jones, Jordan. *The Simi Valley I Know* (Chantilly, Virginia: Leaping Dog Press, 2013).
 
 ### Anthologies
-Jones, Jordan. “I Am Asking You to Trust My Memory-Wheel,” *The Best Fiction and Poetry from CSUN: 1962–1988,* edited by Warren Wedin, 1st ed., 192. Northridge, California: Northridge Review Press, 1988. (Original, now deprecated: http://www.csun.edu/~hceng029/thebest/jonesiamasking.html; archive: https://web.archive.org/web/20180621012552/http://www.csun.edu/~hceng029/thebest/jonesiamasking.html).
+Jones, Jordan. “I Am Asking You to Trust My Memory-Wheel,” *The Best Fiction and Poetry from CSUN: 1962–1988,* Warren Wedin, editor (Northridge, California: Northridge Review Press, 1988), 192. (Original, now deprecated: http://www.csun.edu/~hceng029/thebest/jonesiamasking.html; archive: https://web.archive.org/web/20180621012552/http://www.csun.edu/~hceng029/thebest/jonesiamasking.html).
 
-___. “Waltz: The Secret Diary of an Underling at the Department of Water and Power.” In *Anyone Is Possible: Contemporary Short Fiction,* edited by Kate Gale and Mark Cull. Red Hen Press, 1997.
+___. “Waltz: The Secret Diary of an Underling at the Department of Water and Power,” *Anyone Is Possible: Contemporary Short Fiction,* Kate Gale and Mark Cull, editors (Palmdale, California: Red Hen Press, 1997), 40–42.
 
-___. “Zen Baker.” In *What Book!?: Buddha Poems from Beat to Hiphop,* edited by Gary Gach, 1st ed., 58–59. Berkeley, California: Parallax Press, 1998. Winner of the American Book Award.
+___. “Zen Baker.” *What Book!?: Buddha Poems from Beat to Hiphop,* Gary Gach, editor (Berkeley, California: Parallax Press, 1998), 58–59. Winner of the American Book Award.
 
 ## Periodical and Website Publications
 ### Poetry
